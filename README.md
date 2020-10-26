@@ -36,6 +36,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
     - [Development](#development)
   - [Red Team Infrastructure Deployment](#red-team-infrastructure-deployment)
   - [Exploits & Payloads](#exploits--payloads)
+  - [Bug-Bounty](#bug-bounty)
   - [Usability](#usability)
   - [Big Data](#big-data)
   - [DevOps](#devops)
@@ -298,6 +299,28 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 
+
+## Bug-Bounty
+
+- [Hacking Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) 
+- [Web Application Firewalls](https://github.com/0xInfection/Awesome-WAF)
+- [Book of BugBountyTips](https://gowsundar.gitbook.io/book-of-bugbounty-tips/)
+- [Bug bounty writeups](https://pentester.land/list-of-bug-bounty-writeups.html#bug-bounty-writeups-published-in-2019)
+- [BUG BOUNTY HUNTING GUIDE](https://medium.com/bugbountywriteup/bug-bounty-hunting-methodology-toolkit-tips-tricks-blogs-ef6542301c65)
+- [Bug Bounty Reference](https://github.com/ngalongc/bug-bounty-reference)
+- [Guide to Basic Recon](https://blog.securitybreached.org/2017/11/25/guide-to-basic-recon-for-bugbounty/)
+- [BugBounty Slack Archives](https://bugbountyworld.com/slack-archives/)
+- [Getting started in Bug Bounty](https://medium.com/@ehsahil/getting-started-in-bug-bounty-7052da28445a)
+- [Web Application Penetration Testing Notes](https://techvomit.net/web-application-penetration-testing-notes/)
+- [Penetration Test Guide](https://github.com/Voorivex/pentest-guide)
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - your-daily-knowledge-and-news-toc
+- [pentest_compilation](https://github.com/adon90/pentest_compilation#iptablesred)
+- [BugBounty-Reader](https://bugreader.com/)
+- [RedTeam Guide](https://ired.team/)
+- [Awesome-BugBounty-reference](https://github.com/djadmin/awesome-bug-bounty)
+- [Hackerone-Writeup-guide](http://h1.nobbd.de/)
+- [Peter Yaworski - Web Bug Hunting Notes](https://www59.zippyshare.com/v/iMR42GcL/file.html)
+- [Bug Bounty Cheat Sheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
 
 
 ## Red Team Infrastructure Deployment
