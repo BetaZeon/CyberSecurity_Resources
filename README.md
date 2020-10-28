@@ -321,7 +321,12 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Hackerone-Writeup-guide](http://h1.nobbd.de/)
 - [Peter Yaworski - Web Bug Hunting Notes](https://www59.zippyshare.com/v/iMR42GcL/file.html)
 - [Bug Bounty Cheat Sheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
-
+- [Book Of Bug Bounty Tips](https://gowsundar.gitbook.io/book-of-bugbounty-tips/)
+- [Penetration tests cases, resources and guidelines](https://github.com/Voorivex/pentest-guide)
+- [Knowledge Base Archive](https://www.virtuesecurity.com/kb/) - Application Penetration Testing,AWS Pentesting,DevOps Security,Encryption,Network Penetration Testing,Pentesting Fundamentals.
+- [Bug Bounty cheatsheet - Mohammed Adam](https://docs.google.com/spreadsheets/u/0/d/1TxNrvaIMRS_dmupcwjwJmXtaFk_lPGE1LzgxPu_7KqA/htmlview#) - Covered Web App Pentesting, API Pentesting, Android App Pentesting, Recon etc.
+- [Awesome Bug-Bounty platforms list](https://github.com/djadmin/awesome-bug-bounty) - An awesome list of bug-bounty platforms,programs & write-ups.
+- [The only guided CTF course](https://www.hoppersroppers.org/courseCTF.html)
 
 ## Red Team Infrastructure Deployment
 
@@ -419,7 +424,6 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Awesome Shodan Search Queries](https://github.com/jakejarvis/awesome-shodan-queries) - A collection of interesting, funny, and depressing search queries to plug into Shodan.io.
 - [Awesome Anti Forensics](https://github.com/remiflavien1/awesome-anti-forensic) - A collection of awesome tools used to counter forensics activities.
 - [Awesome Security Talks & Videos](https://github.com/PaulSec/awesome-sec-talks) - A curated list of awesome security talks, organized by year and then conference. 
-
 
 ### Other Common Awesome Lists
 
