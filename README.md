@@ -134,6 +134,10 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [OSSIM](https://www.alienvault.com/open-threat-exchange/projects) - OSSIM provides all of the features that a security professional needs from a SIEM offering – event collection, normalization, and correlation.
 - [FIR](https://github.com/certsocietegenerale/FIR) - Fast Incident Response, a cybersecurity incident management platform.
 - [LogESP](https://github.com/dogoncouch/LogESP) - Open Source SIEM (Security Information and Event Management system).
+- [MozDef](https://github.com/mozilla/MozDef) - MozDef is used for investigating suspicious activities, handle security incidents, alert on security issues, and to categorize threats. It detects any security incident and manages the process, it also has some automation features for incident handling.
+- [SIEMonster](https://siemonster.com/) - SIEMonster is an Open Source SIEM with several featured looked for by security analysts. This tool also has many integrations with several other Open Source tools such as Suricata to bring all the data together.
+- [Wazuh](https://wazuh.com/) - Wazuh began as an OSSEC extension, but is now its own tool. It performs Windows registry monitoring, time-based alerting, log analysis, and rootkit detection. It focuses on SIEM monitoring at the operation system level.
+- [Zeek](https://zeek.org/) - An Open Source Network Security Monitoring Tool. Has the same functions as a SEIM.
 
 ### VPN
 
