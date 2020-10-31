@@ -10,3 +10,8 @@
 * [SANS Cyber Aces](http://www.cyberaces.org/) - SANS Cyber Aces Online is an online course that teaches the core concepts needed to assess, and protect information security systems. 
 * [Offensive Security Training](https://www.offensive-security.com/information-security-training/) - Training from BackTrack/Kali developers.
 * [SANS Security Training](http://www.sans.org/) - Computer Security Training & Certification.
+* [Pentester Academy](https://www.pentesteracademy.com/) - Learn Pentesting Online.
+* [Open Security Training](http://opensecuritytraining.info/) - Training material for computer security classes.
+* [ICS-CERT VLP](https://ics-cert-training.inl.gov/learn) - ICS-CERT Virtual Learning Portal (VLP).
+* [Juniper](https://learningportal.juniper.net/juniper/user_courses.aspx) - Juniper Networks Training Courses.
+* [Cisco Networkin Academy](https://www.netacad.com/) - Cisco Networkin Academy.
