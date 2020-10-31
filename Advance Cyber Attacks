@@ -1,0 +1,34 @@
+Advanced Cyber Attacks and Cyber Defenses
+
+
+With time and devotion, just about anything that’s conceptually realistic can come to fruition.
+This is how innovation and advancements take place. Start with an idea, then explore and expand on it – note that creativity is required. 
+Eventually time and resources invested can pay off. This is true for perspectives from both good and bad stances.
+Good things tend to yield good and pleasurable outcomes, bad things tend to produce undesirable outcomes (well, at least from the good side’s point of view).
+
+
+Where does that take us now and what does this have to do with cyber security?
+
+ I covered the “basic” types of cyber attacks – viruses, malware, network attacks – to which the main 
+ takeaways were potentially unwanted programs (PUPs) and the fact that different variances of attacks were uniquely trackable via an attack signature.
+ WatchGuard offers Gateway AntiVirus (GAV) and Intrusion Prevention Service (IPS) to protect against these standard attacks.
+
+Taking those highlights in conjunction with the first part of this post, 
+let’s move forward to more advanced forms of attacks – advanced persistent threats (APTs) and zero day malware. These attacks don’t use traditional signatures, 
+instead they use MD5 hashes which are based on the file itself. Similar to uniquely tracking signatures, hashes offer the ability to track advanced attacks. WatchGuard offers APT Blocker, which incorporates Lastline’s hash database and their emulation lab.
+
+If you’re asking how this is any different than the basic forms of attacks in terms of traceability and blocking, 
+then I’d say that’s a great question to ask! What APT Blocker offers that GAV and IPS doesn’t is the emulation lab.
+
+Seeing that GAV and IPS work based on already known exploits, unknown exploits (also known as zero day malware) and targeted, high-profiled attacks (APTs) 
+
+wouldn’t get caught by these services. The way these advanced attack forms can be analyzed and tracked is really to just let them loose in a controlled environment.
+This is where sandboxing and honey pots / nets come into play.
+
+Now bear in mind, completely blocking ALL attacks with 100% accuracy is really tough and not a very feasible expectation.
+
+What can be done then? 
+
+This is where a “layered security” approach comes into play. 
+That is, utilize various layers of security in different forms – GAV, IPS, APT Blocker, host or network firewalls, etc.
+– for maximum protection against various forms of attacks.
