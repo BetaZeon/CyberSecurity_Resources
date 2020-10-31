@@ -15,3 +15,9 @@
 * [ICS-CERT VLP](https://ics-cert-training.inl.gov/learn) - ICS-CERT Virtual Learning Portal (VLP).
 * [Juniper](https://learningportal.juniper.net/juniper/user_courses.aspx) - Juniper Networks Training Courses.
 * [Cisco Networkin Academy](https://www.netacad.com/) - Cisco Networkin Academy.
+* [Future Learn](https://www.futurelearn.com/courses/introduction-to-cyber-security) - Introduction to Cyber Security.
+* [Khan Academy](https://www.khanacademy.org/computing) - A free, world-class education to anyone, anywhere.
+* [Heimdal Security](https://cybersecuritycourse.co/) - Cyber Security Course for Beginners.
+* [CTF Field Guide](https://trailofbits.github.io/ctf/) - Everything you need to win your next CTF competition.
+* [ARIZONA CYBER WARFARE RANGE](http://azcwr.org/) - 24x7 live fire exercises for beginners through real world operations; capability for upward progression into the real world of cyber warfare.
+* [European Union Agency for Network and Information Security](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material) - ENISA Cyber Security Training material.
